@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../Advanced-Video-Android.iml" filepath="$PROJECT_DIR$/../Advanced-Video-Android.iml" group="Advanced-Video-Android" />
+      <module fileurl="file://$PROJECT_DIR$/../lib-component/lib-component.iml" filepath="$PROJECT_DIR$/../lib-component/lib-component.iml" group="Advanced-Video-Android/lib-component" />
+      <module fileurl="file://$PROJECT_DIR$/../lib-external-video/lib-external-video.iml" filepath="$PROJECT_DIR$/../lib-external-video/lib-external-video.iml" group="Advanced-Video-Android/lib-external-video" />
+      <module fileurl="file://$PROJECT_DIR$/../lib-raw-data/lib-raw-data.iml" filepath="$PROJECT_DIR$/../lib-raw-data/lib-raw-data.iml" group="Advanced-Video-Android/lib-raw-data" />
+      <module fileurl="file://$PROJECT_DIR$/../sample-custom-render/sample-custom-render.iml" filepath="$PROJECT_DIR$/../sample-custom-render/sample-custom-render.iml" group="Advanced-Video-Android/sample-custom-render" />
+      <module fileurl="file://$PROJECT_DIR$/../sample-push-video/sample-push-video.iml" filepath="$PROJECT_DIR$/../sample-push-video/sample-push-video.iml" group="Advanced-Video-Android/sample-push-video" />
+      <module fileurl="file://$PROJECT_DIR$/../sample-raw-data/sample-raw-data.iml" filepath="$PROJECT_DIR$/../sample-raw-data/sample-raw-data.iml" group="Advanced-Video-Android/sample-raw-data" />
+      <module fileurl="file://$PROJECT_DIR$/sample-switch-external-video.iml" filepath="$PROJECT_DIR$/sample-switch-external-video.iml" group="Advanced-Video-Android/sample-switch-external-video" />
+      <module fileurl="file://$PROJECT_DIR$/../sample-video-encrypt/sample-video-encrypt.iml" filepath="$PROJECT_DIR$/../sample-video-encrypt/sample-video-encrypt.iml" group="Advanced-Video-Android/sample-video-encrypt" />
+    </modules>
+  </component>
+</project>
